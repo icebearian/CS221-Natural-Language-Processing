@@ -2,7 +2,7 @@
 
 # Week 1: Introduction
 - Introduction to NLP
-- NLP & CL (Computer Linguistics)
+- NLP & CL (Computational Linguistics)
 - NLP research and application
 # Week 2:
 # Week 3:
