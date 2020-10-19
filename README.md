@@ -13,5 +13,8 @@
 - [x] Text file Input & Output
 - [x] Function
 - [x] Class
-- [x] Homework
+
+#3 Week 3: Regular Expression
+- [x] RegEx Python
+
 
