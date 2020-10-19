@@ -14,7 +14,7 @@
 - [x] Function
 - [x] Class
 
-#3 Week 3: Regular Expression
+# Week 3: Regular Expression
 - [x] RegEx Python
 
 
