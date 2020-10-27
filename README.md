@@ -14,7 +14,9 @@
 - [x] Function
 - [x] Class
 
-# Week 3: Regular Expression
-- [x] RegEx Python
+# Week 3: Formal language
+- [x] Regular expression
+- [x] Morphological Analysis
+- [ ] 
 
 
