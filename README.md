@@ -1,22 +1,8 @@
 # CS221: Natural Language Processing
 
-# Week 1: Introduction
-- [x] Introduction to NLP
-- [x] NLP & CL (Computational Linguistics)
-- [x] NLP research and application
-# Week 2: Python
-- [x] Script vs Interactive Mode
-- [x] Variable
-- [x] If statement
-- [x] Loop statement
-- [x] Console Input & Output
-- [x] Text file Input & Output
-- [x] Function
-- [x] Class
-
-# Week 3: Formal language
-- [x] Regular expression
-- [x] Morphological Analysis
-- [ ] 
-
-
+# 1.Giới thiệu
+# 2.Ngôn ngữ tự nhiên
+# 3.Ngôn ngữ hình thức
+# 4.Gán nhãn từ loại
+# 5.Phân tích cú pháp ngữ đoạn
+# 6.Phân tích cú pháp phụ thuộc
