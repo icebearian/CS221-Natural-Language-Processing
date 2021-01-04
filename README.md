@@ -5,4 +5,4 @@
 - [x] 4.Gán nhãn từ loại
 - [x] 5.Phân tích cú pháp ngữ đoạn
 # Đồ án cuối kỳ:
-- [ ] Gán nhãn từ loại: Sử dụng Hidden Markov Model
+- [x] Gán nhãn từ loại: Sử dụng Hidden Markov Model
