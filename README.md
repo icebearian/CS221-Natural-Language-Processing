@@ -1,4 +1,5 @@
 # CS221: Natural Language Processing
+> Nội dung môn học
 - [x] 1.Giới thiệu
 - [x] 2.Ngôn ngữ tự nhiên
 - [x] 3.Ngôn ngữ hình thức
