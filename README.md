@@ -7,4 +7,4 @@
 - [x] 5.Phân tích cú pháp ngữ đoạn
 # Đồ án cuối kỳ:
 - [ ] Báo cáo cuối kỳ
-- [x] Gán nhãn từ loại: Sử dụng Hidden Markov Model
+- [x] [Gán nhãn từ loại: Sử dụng Hidden Markov Model](https://github.com/icebearian/CS221-Natural-Language-Processing/blob/master/PosTaggingCapstoneProject.ipynb)
