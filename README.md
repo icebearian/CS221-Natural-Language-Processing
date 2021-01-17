@@ -20,5 +20,5 @@
 
 # Đồ án cuối kỳ:
 - [ ] Báo cáo cuối kỳ
-- [ ] Phân tích hình thái
+- [ ] Phân tích hình thái: Tách từ
 - [x] [Gán nhãn từ loại: Sử dụng Hidden Markov Model](https://github.com/icebearian/CS221-Natural-Language-Processing/blob/master/PosTaggingCapstoneProject.ipynb)
